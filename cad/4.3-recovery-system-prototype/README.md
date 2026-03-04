@@ -1,6 +1,8 @@
 This is my first prototype of the recovery system, that is supposed to eject the parachute.
 The energy is stored in a spring. We settled on this approach for its relative simplicity and reliability. Additionally, ejection charges are really hard to oobtain and CO2 cartridges are non reusable.
 This design utilizes a servo to rotate the whole nosecone via a system of gears similar to a clutch in an automobile. After the nosecone is rotated, kts pins are free which releases the tension from the spring.
+The parachute will be connected to the middle part via a velcro. The nosecone will be ejected on a piece of rope, pulling the parachute out afterwards. This is to ensure the parachute does not stay inside the nosecone after deployemnt.
+NOTE TO SELF - ADD RIDGE FOR MIDDLE PART TO STAY IN PLACE
 The 3 bodies are: 
 - Nosecone and upper "clutch" part
 - Middle gear part that will be attached to the servo head (further adjustments are needed as I havent yet had the time to print the frdign)
