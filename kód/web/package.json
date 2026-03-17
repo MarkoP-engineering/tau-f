@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "navigator": "^1.0.1",
+    "vite": "^8.0.0"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  }
+}
