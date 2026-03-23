@@ -9,3 +9,4 @@ It contains:
 - E22-400MM22S LoRa 400 Mhz radio transmitter module
 All of the modules communicate with the microcontroller via an SPI bus
 This is a very rough prototype, and I probably made a lot of mistakes. Everything will most likely be remade from scratch according to the documentationand double-checked.
+I had to create a custom symbol for the LoRa module. All of the custom symbols, and later footprints, will be placed into their respective update folders.
