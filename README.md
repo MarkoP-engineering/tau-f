@@ -15,4 +15,4 @@ The bodz will be split into multiple sections - below they are in order form bot
 
 
 We would like to thank Prusa Research for providing us with the filament necessary to make this project possible!
-<img width="1500" height="845" alt="image" src="https://github.com/user-attachments/assets/2e86634d-3fba-4a87-9419-768e01a53958" />
+<img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/3916a129-6dcf-47d4-ba9a-1549f118e573" />
